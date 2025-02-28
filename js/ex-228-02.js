@@ -10,7 +10,6 @@ which those elements occur.
 
 */
 
-
 function getFrequencies(arr){
     resultObj = {};
     arr.map((x) => {
